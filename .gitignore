@@ -1,0 +1,7 @@
+# Project exclude paths
+/target/
+/src/main/resources/application.properties
+/.idea/jarRepositories.xml
+/.idea/
+
+/.idea/misc.xml
